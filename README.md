@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 
-Bu proje, test amaçları için oluşturulmuş basit bir geri kapı (backdoor) uygulamasını içerir. Lütfen bu projeyi yalnızca etik sınırlar içinde kullanmayı unutmayın.
+Bu proje, test amaçları için oluşturulmuş basit bir backdoor uygulamasını içerir. Lütfen bu projeyi yalnızca etik sınırlar içinde kullanmayı unutmayın.
 
 **UYARI:** Bu proje sadece test amacıyla hazırlanmıştır ve yasalara uygun olarak kullanılmalıdır. Geliştirici, projenin kötü niyetli veya yasa dışı amaçlarla kullanılmasından sorumlu değildir.
 
